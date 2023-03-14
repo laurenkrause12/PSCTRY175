@@ -1,0 +1,29 @@
+
+body {
+    background-image: url(Background.jpg); 
+    background-color: lightyellow;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: fit-content;
+    min-width: fit-content;
+
+                
+               
+}
+
+
+#txt {
+
+    text-align: center;
+    padding-top: 220px;
+    color: rgb(26, 25, 29);
+    font-size: 0.5in;
+    position: relative;
+}
+
+main {
+    padding-bottom: 2000px;
+    font-size: larger;
+}
+
